@@ -1,9 +1,3 @@
 This is your group repo for your final project for COGS108.
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
-
-This repository will be frozen on the due date: 11:59pm on Tuesday, June 13th. No further changes can be made after that time.
-
-Your final project will be graded based solely on a project notebook.
-
-Make sure you have a notebook called 'FinalProject.ipynb' present in this repository by the due date.
+Today, we live in a society where airplanes are becoming one of the most essential transportation. However, as the increase in airplane usage, airplane delay has become a more serious problem that has caused many people inconveniences. For our project, we will focus on airliner delays, inspect some of the most influential causes that have led to flight delays and predict the potential aspects that people overlook. With our data analysis, we hope to give some insights to airlines that could potentially decrease airplane delays.
